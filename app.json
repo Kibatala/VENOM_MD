@@ -32,7 +32,7 @@
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required": true,
-      "value": "Africa/Nairobi"
+      "value": "Africa/Dar es salaam"
     },
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -95,7 +95,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254737991043"
+      "value": "25587547236"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",

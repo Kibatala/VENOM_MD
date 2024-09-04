@@ -7,19 +7,19 @@ global.video = "";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
 global.email = "Hechem254@gmail.com";
-global.location = "Nairobi, Africa.";
+global.location = "Dar es salaam, Africa.";
 global.mongodb = process.env.MONGODB_URI || "";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
-global.timezone = process.env.TZ || process.env.TIME_ZONE || "Afica/Nairobi";
+global.timezone = process.env.TZ || process.env.TIME_ZONE || "Afica/Dar es salaam";
 global.github = process.env.GITHUB || "https://github.com/Hammy254/VENOM_MD";
 global.gurl = process.env.GURL || "https://chat.whatsapp.com/LqYfmGAmfbnHhtSWSsXP1v";
 global.website = process.env.GURL || "https://chat.whatsapp.com/LqYfmGAmfbnHhtSWSsXP1v";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/f713683bc977188572040.jpg";
 global.devs = "254737991043";
-global.sudo = process.env.SUDO || "254737991043";
-global.owner = process.env.OWNER_NUMBER || "254737991043";
+global.sudo = process.env.SUDO || "255787547236";
+global.owner = process.env.OWNER_NUMBER || "255787547236";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -53,7 +53,7 @@ module.exports = {
   packname: process.env.PACK_NAME || "𝐒𝐓𝐈𝐂𝐊𝐄𝐑 𝐁𝐘",
   botname: process.env.BOT_NAME || "𝐕𝐄𝐍𝐎𝐌_𝐌𝐃",
   ownername: process.env.OWNER_NAME || "⟠ 〄༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄",
-  errorChat: process.env.ERROR_CHAT || "254737991043",
+  errorChat: process.env.ERROR_CHAT || "25587547236",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
